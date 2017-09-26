@@ -1,0 +1,15 @@
+Homework 2 - Feynman Writing Prompts
+For 
+    For loops can run a block of code any number of times, depending on the conditions you specify. An indexing variable is made at the beginning of the loop, and it can be incremented or decremented every time you go through the loop. The code will stop looping once the indexing variable meets a certain number.
+
+&&, ||, !
+    The “&&” symbol stands for “and”. If two conditions are true at the same time, the “&&” symbol would be appropriate to use. The “||” symbol is used to mean “or”. When either one of two statements is true, then the “||” symbol would be appropriate to use. The “!” Symbol means “not” and flips the value. For instance, !true is false, and !false is true.
+
+Arrays
+    * Arrays are used to store many values into a single variable. It’s a way to organize data, rather than having values stored into multiple variables. It cleans up your code and it allows your code to run more efficiently and easily. 
+
+Git 
+    Git is a version control system. Basically, what that means is that other people are able to work together with you and collaborate on large projects. It helps to organize and share your files in a clean and easy way.
+
+GitHub
+    GitHub is the website for Git. You are able to make your version of other developer’s projects, save your changes, and submit your requests to have your changes incorporated into the owner’s repositories, or projects. 
